@@ -1,0 +1,192 @@
+Debugging Workflow
+
+Goal
+
+Identify the root cause of a problem, verify assumptions, test solutions, and prevent recurring failures.
+
+Best Used When
+
+* Software bugs
+* Project blockers
+* Process failures
+* Workflow issues
+* System outages
+* Unexpected results
+* AI-generated output problems
+
+Inputs
+
+* Problem description
+* Expected outcome
+* Actual outcome
+* Logs, errors, or observations
+* Recent changes
+
+Human Role
+
+* Provide accurate observations
+* Perform testing
+* Validate results
+* Make final decisions
+* Determine acceptable risk
+
+AI Role
+
+* Generate hypotheses
+* Organize findings
+* Suggest tests
+* Identify blind spots
+* Explain technical concepts
+* Create troubleshooting plans
+
+Process
+
+Step 1: Define the Problem
+
+Answer:
+
+* What should happen?
+* What actually happened?
+* When did the issue begin?
+
+Output:
+
+Clear problem statement.
+
+⸻
+
+Step 2: Reproduce the Issue
+
+Attempt to consistently recreate the problem.
+
+Determine:
+
+* Does it happen every time?
+* Does it happen only under certain conditions?
+* Can the issue be isolated?
+
+Output:
+
+Reproduction steps.
+
+⸻
+
+Step 3: Gather Evidence
+
+Collect:
+
+* Error messages
+* Logs
+* Screenshots
+* System information
+* User reports
+
+Output:
+
+Evidence package.
+
+⸻
+
+Step 4: Generate Hypotheses
+
+List possible causes.
+
+Focus on:
+
+* Recent changes
+* Dependencies
+* Configuration issues
+* User actions
+* Environmental factors
+
+Output:
+
+Ranked hypothesis list.
+
+⸻
+
+Step 5: Test One Variable at a Time
+
+Avoid changing multiple things simultaneously.
+
+For each test:
+
+* Predict outcome
+* Perform test
+* Record result
+
+Output:
+
+Verified findings.
+
+⸻
+
+Step 6: Identify Root Cause
+
+Ask:
+
+* What evidence supports this cause?
+* What evidence contradicts it?
+* Has the issue been reliably explained?
+
+Output:
+
+Root cause statement.
+
+⸻
+
+Step 7: Implement and Verify Fix
+
+Apply solution.
+
+Verify:
+
+* Original issue resolved
+* No new issues introduced
+* Expected behavior restored
+
+Output:
+
+Validated fix.
+
+⸻
+
+Step 8: Document Lessons Learned
+
+Record:
+
+* Cause
+* Fix
+* Prevention strategy
+* Monitoring recommendations
+
+Output:
+
+Incident summary.
+
+⸻
+
+Expected Output
+
+* Problem statement
+* Reproduction steps
+* Evidence log
+* Root cause analysis
+* Solution plan
+* Lessons learned
+
+⸻
+
+Common Mistakes
+
+* Jumping to conclusions
+* Changing multiple variables at once
+* Ignoring evidence that contradicts assumptions
+* Treating symptoms instead of causes
+* Failing to document findings
+
+⸻
+
+Example Prompt
+
+Help me debug this issue. Review the problem, identify possible causes, rank hypotheses by likelihood, suggest tests, and help determine the root cause.
