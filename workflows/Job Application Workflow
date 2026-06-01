@@ -1,0 +1,150 @@
+Job Application Workflow
+
+Goal
+
+Apply to jobs efficiently while tailoring applications to the role without rewriting everything from scratch.
+
+⸻
+
+Best Used When
+
+* Applying to multiple jobs
+* Tailoring a resume
+* Preparing interview talking points
+* Identifying skill gaps
+* Creating cover letter drafts
+
+⸻
+
+Inputs
+
+* Job description
+* Current resume
+* Relevant project portfolio
+* Previous work experience
+
+⸻
+
+Human Role
+
+* Verify all information
+* Provide real experiences
+* Review final application materials
+* Make final submission decisions
+
+⸻
+
+AI Role
+
+* Analyze job descriptions
+* Identify relevant experience
+* Suggest resume improvements
+* Generate interview questions
+* Highlight skill gaps
+
+⸻
+
+Process
+
+Step 1: Analyze the Job Description
+
+Provide the job description to AI.
+
+Ask:
+
+* What skills are most important?
+* What responsibilities appear most frequently?
+* What keywords appear repeatedly?
+
+Output:
+
+A prioritized list of role requirements.
+
+⸻
+
+Step 2: Match Experience
+
+Provide:
+
+* Resume
+* Projects
+* Previous positions
+
+Ask:
+
+“What experiences best match this role?”
+
+Output:
+
+A relevance map between experience and job requirements.
+
+⸻
+
+Step 3: Tailor Resume
+
+Use AI to:
+
+* Reorder bullets
+* Highlight relevant projects
+* Surface transferable skills
+* Improve clarity
+
+Do not invent experience.
+
+⸻
+
+Step 4: Build Interview Notes
+
+Ask AI to generate:
+
+* Likely interview questions
+* Scenario questions
+* Technical questions
+* Behavioral questions
+
+Prepare examples using real experiences.
+
+⸻
+
+Step 5: Review for Accuracy
+
+Human review required.
+
+Verify:
+
+* Experience claims
+* Dates
+* Metrics
+* Skills
+* Project descriptions
+
+⸻
+
+Step 6: Submit
+
+Submit only after a final human review.
+
+⸻
+
+Expected Output
+
+* Tailored resume
+* Interview notes
+* Role-specific talking points
+* Application checklist
+
+⸻
+
+Common Mistakes
+
+* Over-customizing every application
+* Inventing experience
+* Using AI-generated metrics
+* Ignoring human review
+* Applying without understanding the role
+
+⸻
+
+Example Prompt
+
+Analyze the attached job description and identify the top five skills and responsibilities. Compare them against my resume and explain where my strongest alignment exists.
