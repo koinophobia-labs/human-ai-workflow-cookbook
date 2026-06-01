@@ -1,0 +1,94 @@
+Interview Preparation Workflow
+
+Goal
+
+Prepare for interviews by turning the job description, personal experience, and role expectations into clear answers and practical examples.
+
+Best Used When
+
+* Preparing for a first interview
+* Reapplying after feedback
+* Practicing behavioral questions
+* Translating projects into job-relevant examples
+* Reducing rambling or overly abstract answers
+
+Inputs
+
+* Job description
+* Resume
+* Portfolio or GitHub projects
+* Previous interview feedback
+* Notes about the company or role
+
+Human Role
+
+* Provide accurate experience
+* Choose real examples
+* Practice delivery
+* Keep answers honest and role-specific
+* Make final decisions about what to say
+
+AI Role
+
+* Identify likely interview questions
+* Convert experience into role-relevant examples
+* Create concise answer structures
+* Flag vague or overly abstract answers
+* Help practice follow-up questions
+
+Process
+
+Step 1: Identify Role Priorities
+
+Ask AI to review the job description and list the core responsibilities, required skills, and likely interview themes.
+
+Step 2: Map Experience to the Role
+
+Match previous jobs, projects, and examples to the responsibilities in the role.
+
+Step 3: Build Answer Frameworks
+
+Create short answer structures using:
+
+* Situation
+* Signal or problem
+* Action taken
+* Outcome or lesson
+
+Step 4: Prepare Scenario Responses
+
+Generate likely scenarios and practice practical responses.
+
+Focus on what you would do, not only what you think about the topic.
+
+Step 5: Address Feedback
+
+If there was previous interview feedback, prepare a direct response that shows growth without sounding defensive.
+
+Step 6: Practice Short Answers
+
+Reduce answers to clear, role-specific responses.
+
+The goal is not to impress with complexity.
+
+The goal is to show fit, judgment, and readiness.
+
+Expected Output
+
+* Interview notes
+* Role-specific examples
+* Scenario responses
+* Questions to ask the interviewer
+* A concise explanation of relevant projects
+
+Common Mistakes
+
+* Giving answers that are too abstract
+* Overexplaining projects
+* Trying to impress instead of answering the question
+* Forgetting to connect examples to the actual role
+* Sounding defensive about past feedback
+
+Example Prompt
+
+I am interviewing for this role. Review the job description, my resume, and my previous feedback. Create concise interview answers that show I understand the role and can operate inside its expectations.
