@@ -1,0 +1,180 @@
+Decision-Making Workflow
+
+Goal
+
+Make better decisions by defining the problem, evaluating options, identifying risks, and selecting a path with clear reasoning.
+
+Best Used When
+
+* Choosing between multiple options
+* Evaluating purchases
+* Career decisions
+* Project prioritization
+* Resource allocation
+* Strategic planning
+* Resolving uncertainty
+
+Inputs
+
+* Decision to be made
+* Available options
+* Constraints
+* Risks
+* Goals and priorities
+
+Human Role
+
+* Define priorities
+* Determine acceptable risk
+* Make the final decision
+* Accept responsibility for outcomes
+* Reassess when circumstances change
+
+AI Role
+
+* Organize information
+* Identify tradeoffs
+* Surface risks
+* Challenge assumptions
+* Compare options
+* Structure reasoning
+
+Process
+
+Step 1: Define the Decision
+
+Clearly answer:
+
+* What decision needs to be made?
+* Why does it matter?
+* What happens if no decision is made?
+
+Output:
+
+Decision statement.
+
+⸻
+
+Step 2: Define Success
+
+Determine:
+
+* What outcome are you trying to achieve?
+* What does success look like?
+* What constraints must be respected?
+
+Output:
+
+Success criteria.
+
+⸻
+
+Step 3: Identify Options
+
+List realistic choices.
+
+Include:
+
+* Preferred option
+* Alternative options
+* Doing nothing
+
+Output:
+
+Option list.
+
+⸻
+
+Step 4: Evaluate Tradeoffs
+
+For each option, assess:
+
+* Benefits
+* Risks
+* Costs
+* Time required
+* Reversibility
+
+Output:
+
+Tradeoff analysis.
+
+⸻
+
+Step 5: Challenge Assumptions
+
+Ask:
+
+* What assumptions am I making?
+* What evidence supports them?
+* What evidence contradicts them?
+
+Output:
+
+Assumption review.
+
+⸻
+
+Step 6: Identify Risks
+
+Consider:
+
+* Financial risks
+* Operational risks
+* Relationship risks
+* Opportunity costs
+* Long-term consequences
+
+Output:
+
+Risk assessment.
+
+⸻
+
+Step 7: Make the Decision
+
+Choose the option that best aligns with the defined success criteria.
+
+Output:
+
+Decision and rationale.
+
+⸻
+
+Step 8: Set a Review Point
+
+Determine:
+
+* When should the decision be reviewed?
+* What signals would justify changing course?
+
+Output:
+
+Review plan.
+
+⸻
+
+Expected Output
+
+* Decision statement
+* Success criteria
+* Option comparison
+* Risk assessment
+* Chosen path
+* Review schedule
+
+⸻
+
+Common Mistakes
+
+* Delaying decisions indefinitely
+* Ignoring opportunity cost
+* Confusing preferences with facts
+* Seeking certainty when only probability exists
+* Refusing to revisit decisions when new evidence appears
+
+⸻
+
+Example Prompt
+
+Help me evaluate this decision. Define success criteria, compare options, identify risks, challenge assumptions, and recommend a path based on my priorities.
