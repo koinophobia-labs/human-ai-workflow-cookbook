@@ -1,0 +1,154 @@
+Project Planning Workflow
+
+Goal
+
+Turn an idea into a structured project plan with clear objectives, milestones, deliverables, risks, and next actions.
+
+Best Used When
+
+* Starting a new project
+* Breaking down a large idea
+* Defining scope
+* Creating a roadmap
+* Avoiding scope creep
+* Coordinating work between humans and AI
+
+Inputs
+
+* Project idea
+* Desired outcome
+* Constraints
+* Available resources
+* Timeline (if applicable)
+
+Human Role
+
+* Define the mission
+* Approve scope
+* Make final decisions
+* Prioritize tradeoffs
+* Validate outputs
+
+AI Role
+
+* Organize ideas
+* Identify dependencies
+* Suggest milestones
+* Surface risks
+* Create execution plans
+* Generate documentation
+
+Process
+
+Step 1: Define the Outcome
+
+Answer:
+
+* What are we building?
+* Why does it matter?
+* What does success look like?
+
+Output:
+
+A single clear project objective.
+
+⸻
+
+Step 2: Define Scope
+
+Identify:
+
+* Included features
+* Excluded features
+* Assumptions
+* Constraints
+
+Output:
+
+A defined project boundary.
+
+⸻
+
+Step 3: Break Into Phases
+
+Separate work into:
+
+* Foundation
+* Core functionality
+* Quality improvements
+* Expansion features
+
+Output:
+
+A phased roadmap.
+
+⸻
+
+Step 4: Identify Risks
+
+Review:
+
+* Technical risks
+* Resource risks
+* Timeline risks
+* User risks
+* Scope risks
+
+Output:
+
+Risk register with mitigation ideas.
+
+⸻
+
+Step 5: Build Milestones
+
+For each phase define:
+
+* Deliverable
+* Completion criteria
+* Dependencies
+* Owner
+
+Output:
+
+Milestone plan.
+
+⸻
+
+Step 6: Create Immediate Actions
+
+Determine:
+
+* Next action
+* Next milestone
+* Biggest blocker
+
+Output:
+
+Execution-ready task list.
+
+⸻
+
+Expected Output
+
+* Project brief
+* Roadmap
+* Risk assessment
+* Milestone structure
+* Immediate next actions
+
+⸻
+
+Common Mistakes
+
+* Starting before defining scope
+* Building features without a goal
+* Expanding requirements mid-project
+* Ignoring dependencies
+* Planning too far ahead without execution
+
+⸻
+
+Example Prompt
+
+Help me convert this project idea into a structured roadmap. Identify the goal, scope, phases, risks, milestones, and immediate next actions.
