@@ -1,0 +1,159 @@
+Research Workflow
+
+Goal
+
+Gather information efficiently, evaluate sources, identify key insights, and turn research into actionable understanding.
+
+Best Used When
+
+* Learning a new topic
+* Comparing tools or products
+* Evaluating business ideas
+* Preparing for interviews
+* Exploring a new industry
+* Fact-finding before making decisions
+
+Inputs
+
+* Research question
+* Topic of interest
+* Constraints or requirements
+* Existing knowledge (optional)
+
+Human Role
+
+* Define the question
+* Evaluate credibility
+* Make final judgments
+* Decide what matters
+* Apply findings
+
+AI Role
+
+* Organize information
+* Generate research questions
+* Summarize findings
+* Compare viewpoints
+* Identify knowledge gaps
+* Create structured notes
+
+Process
+
+Step 1: Define the Question
+
+Turn a broad topic into a specific question.
+
+Examples:
+
+Bad:
+
+* “Tell me about AI.”
+
+Better:
+
+* “What are the best ways to use AI for project management?”
+
+Output:
+
+A focused research objective.
+
+⸻
+
+Step 2: Break the Question Down
+
+Identify:
+
+* Subtopics
+* Assumptions
+* Unknowns
+* Important definitions
+
+Output:
+
+Research map.
+
+⸻
+
+Step 3: Gather Information
+
+Collect information from:
+
+* Official documentation
+* Reputable publications
+* Expert opinions
+* Community discussions
+* Case studies
+
+Output:
+
+Source collection.
+
+⸻
+
+Step 4: Compare Findings
+
+Look for:
+
+* Agreement
+* Disagreement
+* Repeated themes
+* Missing information
+
+Output:
+
+Insight summary.
+
+⸻
+
+Step 5: Identify Risks and Biases
+
+Ask:
+
+* Who produced this information?
+* What incentives exist?
+* Is evidence provided?
+* Are there alternative explanations?
+
+Output:
+
+Credibility assessment.
+
+⸻
+
+Step 6: Convert Research Into Action
+
+Determine:
+
+* What was learned?
+* What remains uncertain?
+* What action should be taken next?
+
+Output:
+
+Decision-ready summary.
+
+⸻
+
+Expected Output
+
+* Research notes
+* Source list
+* Key findings
+* Risks and uncertainties
+* Recommended next actions
+
+⸻
+
+Common Mistakes
+
+* Starting without a clear question
+* Accepting first answers as truth
+* Ignoring conflicting information
+* Collecting information without a decision goal
+* Confusing opinions with evidence
+
+⸻
+
+Example Prompt
+
+Help me research this topic. Break it into subtopics, identify key questions, summarize major viewpoints, highlight uncertainties, and create a decision-ready summary.
