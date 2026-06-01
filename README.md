@@ -77,3 +77,55 @@ A lot of AI usage is treated like magic.
 This repo treats AI like a tool.
 
 The difference is structure.
+Available Workflows
+
+Career
+
+* Job Application Workflow
+* Interview Preparation Workflow
+
+Project Execution
+
+* Project Planning Workflow
+* Debugging Workflow
+
+Knowledge Work
+
+* Research Workflow
+* Decision-Making Workflow
+
+Content
+
+* Content Creation Workflow
+
+Recommended Starting Paths
+
+Getting a Job
+
+1. Research Workflow
+2. Job Application Workflow
+3. Interview Preparation Workflow
+4. Decision-Making Workflow
+
+Building a Project
+
+1. Research Workflow
+2. Project Planning Workflow
+3. Debugging Workflow
+4. Decision-Making Workflow
+
+Creating Content
+
+1. Research Workflow
+2. Content Creation Workflow
+3. Decision-Making Workflow
+
+Philosophy
+
+Good AI use is not about finding the perfect prompt.
+
+It is about creating repeatable workflows that combine human judgment with AI assistance.
+
+The best results come from clear goals, structured processes, and thoughtful review.
+
+This repository documents those processes.
